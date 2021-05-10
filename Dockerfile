@@ -1,2 +1,2 @@
-FROM php:8.0.2-apache
+FROM php:8.0.6-apache
 
